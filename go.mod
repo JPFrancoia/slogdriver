@@ -1,4 +1,4 @@
-module github.com/jussi-kalliokoski/slogdriver
+module github.com/JPFrancoia/slogdriver
 
 go 1.21
 
